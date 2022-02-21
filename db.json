@@ -1,0 +1,46 @@
+{
+  "recipes": [
+    {
+      "title": "Chicken & Pineapple",
+      "desc": "Baked chicken with pineapple and yellow rice,Baked chicken with pineapple and yellow rice.,Baked chicken with pineapple and yellow rice.,Baked chicken with pineapple and yellow rice.",
+      "author": "Celdama",
+      "prep": "30",
+      "cooking": "40",
+      "total": "70",
+      "serving": "6",
+      "imgUrl": "https://images.unsplash.com/photo-1606728035253-49e8a23146de?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "ingredients": [
+        "cooking spray",
+        "1 tablespoon olive oil",
+        "2 cloves garlic, minced"
+      ],
+      "steps": [
+        "first stepvdvdsvd  dvfdsvfd vfv dv sfvfdvd vdv dsdfvdfvfvfds ",
+        "last step vfdv vfsvfkdsvdsnvdvlkefkve  vkl kfdnk vkevksnvkdfk nve gecs qc,k clsc,kd,fskvfkddkos ,korc fv e pge kvk ",
+        "defsfdsfs"
+      ],
+      "id": 2,
+      "favorite": false,
+      "customId": "dsfsdfer44"
+    },
+    {
+      "title": "Beef Balllllllls",
+      "desc": "Baked chicken with pineapple and yellow rice,Baked chicken with pineapple and yellow rice.,Baked chicken with pineapple and yellow rice.,Baked chicken with pineapple and yellow rice.",
+      "author": "Celdama",
+      "prep": "30",
+      "cooking": "40",
+      "total": "70",
+      "serving": "6",
+      "imgUrl": "https://images.unsplash.com/photo-1588347785102-2944ba63d0c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "ingredients": [
+        "cooking spray",
+        "1 tablespoon olive oil",
+        "2 cloves garlic, minced"
+      ],
+      "steps": ["first step", "last step"],
+      "id": 4,
+      "favorite": false,
+      "customId": "fdsfds322"
+    }
+  ]
+}
